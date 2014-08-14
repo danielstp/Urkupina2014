@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
-<widget id="com.gamq.urkupina2014" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Urkupiña2014</name>
+<?xml version='2.0' encoding='utf-8'?>
+<widget id="bo.gob.quillacollo.urkupina2014" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Urkupina2014</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
     </description>
